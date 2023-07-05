@@ -1,4 +1,4 @@
-![Best developer in the world](https://github.com/nikitafill/CV/tree/markdown/img/Photo.png)
+<img src="img/Photo.png" width="50%" height="52.5%" />
 
 # Filchenko Nikita
 
