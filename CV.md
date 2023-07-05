@@ -1,4 +1,4 @@
-!["Best developer in the world"](img/photo.png)
+!["Best developer in the world"](https://github.com/nikitafill/CV/tree/markdown/img)
 
 # Filchenko Nikita
 
@@ -6,10 +6,10 @@
 
 ### Skills
 
-**Programming languages:** C#, Javascipt, С++
-**DBMS:** MS SQL Server 
-**Tools:** Visual Studio, Visual studio code, Git Bash, GitHub, Enterprise architect,<br>SQL Server Managment studio
-**Technology:** ASP.NET, Entity Framework, Linq, jQuerry, Git
+**Programming languages:** C#, Javascipt, С++<br>
+**DBMS:** MS SQL Server <br>
+**Tools:** Visual Studio, Visual studio code, Git Bash, GitHub, Enterprise architect,SQL Server Managment studio <br>
+**Technology:** ASP.NET, Entity Framework, Linq, jQuerry, Git <br>
 
 ### Languages
 
@@ -19,14 +19,14 @@
 
 ### Education
 
-**Belarusian-Russian university**
+**Belarusian-Russian university** <br>
 Software engineering, student 2021- present
 
 ### Contacts
 
-Email: nikitafil270300@gmail.com
-Tel: +375297249223
-LinkedIn: nikita-filchenko-381292278
+Email: nikitafil270300@gmail.com <br>
+Tel: +375297249223 <br>
+LinkedIn: nikita-filchenko-381292278 <br>
 Location: Mogilev, Belarus
 
 
