@@ -1,4 +1,4 @@
-!["Best developer in the world"](https://github.com/nikitafill/CV/tree/markdown/img)
+![Best developer in the world](https://github.com/nikitafill/CV/tree/markdown/img/Photo.png)
 
 # Filchenko Nikita
 
@@ -26,8 +26,8 @@ Software engineering, student 2021- present
 
 **Email:** nikitafil270300@gmail.com <br>
 **Tel:** +375297249223 <br>
-**LinkedIn:** nikita-filchenko-381292278 <br>
-**Location:** Mogilev, Belarus
+**Location:** Mogilev, Belarus<br>
+[LinkedIn](https://www.linkedin.com/in/nikita-filchenko-381292278/ "link")
 
 ### About me 
 >Hi!<br>
