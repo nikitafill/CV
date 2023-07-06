@@ -1,1 +1,1 @@
-#[Curriculum Vitae](https://github.com/nikitafill/CV/)
+[Curriculum Vitae](https://nikitafill.github.io/CV/CV)
