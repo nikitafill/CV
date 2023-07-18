@@ -8,8 +8,8 @@
 
 **Programming languages:** C#, Javascipt, С++<br>
 **DBMS:** MS SQL Server <br>
-**Tools:** Visual Studio, Visual studio code, Git Bash, GitHub, Enterprise architect,SQL Server Managment studio <br>
-**Technology:** ASP.NET, Entity Framework, Linq, jQuerry, Git <br>
+**Tools:** Visual Studio, Visual studio code, Git Bash, GitHub, Enterprise architect,SQL Server Managment studio, Figma <br>
+**Technology:** ASP.NET, Entity Framework, Linq, jQuerry, Git, HTML, CSS <br>
 
 ### Languages
 
