@@ -22,6 +22,14 @@
 **Belarusian-Russian university** <br>
 Software engineering, student 2021- present
 
+### Projects
+
+**The computer game "Pacman"** <br>
+Included the development of game mechanics, graphic design, animation, character management,<br>
+and the use of algorithms artificial intelligence algorithms to control the character's behavior<br>
+**Database development in MS SQL Server** <br>
+Development of databases in MS SQL Server for automation formation of curricula University.
+
 ### Contacts
 
 **Email:** nikitafil270300@gmail.com <br>
