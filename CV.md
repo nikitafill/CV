@@ -35,7 +35,7 @@ Development of databases in MS SQL Server for automation formation of curricula 
 **Email:** nikitafil270300@gmail.com <br>
 **Tel:** +375297249223 <br>
 **Location:** Mogilev, Belarus<br>
-[LinkedIn](https://www.linkedin.com/in/nikita-filchenko-381292278/ "link")
+**LinkedIn:** https://www.linkedin.com/in/nikita-filchenko-381292278/ 
 
 ### About me 
 >Hi!<br>
@@ -53,28 +53,4 @@ Thank you very much for your time and consideration of my application. <br>
 I look forward to the opportunity to speak with you in more detail.<br>
 I wish you a wonderful day!<br>
 Nikita Filchenko
-
-### Code Example
-
-``` <Project Sdk="Microsoft.NET.Sdk.Web">
-
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>01ad3965-2fee-4db2-a5f0-e09e04274056</UserSecretsId>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.7">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
-  </ItemGroup>
-
-</Project> ```
 
